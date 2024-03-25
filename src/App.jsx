@@ -24,7 +24,7 @@ function App() {
       <div className='header__img'>
         <img  src="/public/img_top.png" alt="" />
           <div className='header__name'>
-            <img src="public/img_name.png" alt="Rick and Morty" />
+            <img src="/img_name.png" alt="Rick and Morty" />
           </div>        
       </div>
       <FormSearch setLocationSelected={setLocationSelected}/>
