@@ -22,7 +22,7 @@ function App() {
   return (
     <div className='app'>
       <div className='header__img'>
-        <img  src="/public/img_top.png" alt="" />
+        <img  src="/img_top.png" alt="" />
           <div className='header__name'>
             <img src="/img_name.png" alt="Rick and Morty" />
           </div>        
