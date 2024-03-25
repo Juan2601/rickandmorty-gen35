@@ -1,0 +1,10 @@
+.header__img{
+    width: 100%;
+    position: relative;   
+}
+.header__name {
+    width: 35%;
+    position: absolute;
+    top: 40%;
+    left: 35%;
+}

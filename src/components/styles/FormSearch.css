@@ -1,0 +1,33 @@
+.form {
+    margin-top: 40px;
+    display: block;
+    margin-bottom: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.1rem;
+}
+.form__input {
+    display: block;
+    height: 2em;
+    padding: 0.4em 1em;
+    border-radius: 0.5em 0 0 0.5em;
+    border: none;
+    font-size: inherit;
+}
+.form__btn {
+    font-size: inherit;
+    display: block;
+    height: 110%;
+    padding: 0.4em 1em;
+    border: none;
+    width: 8em;
+    height: 2em;
+    border-radius: 0 0.5em 0.5em 0;
+    background-color: rgb(66, 134, 66);
+    color: white;
+    font-weight: 700;
+    &:hover {
+        filter: brightness(1.4);
+    }
+}

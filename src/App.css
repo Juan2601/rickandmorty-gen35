@@ -1,0 +1,10 @@
+.app {
+    background-color: #073138;
+    color: white;
+}
+.container-resident {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: centers;
+    gap: 1.5em;
+}
